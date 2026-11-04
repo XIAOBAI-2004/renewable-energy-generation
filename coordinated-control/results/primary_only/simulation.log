@@ -1,0 +1,35 @@
+START case=primary_only stop=48 step=0.0001 MATLAB=25.1.0.2973910 (R2025a) Update 1
+COMPLETED elapsed=4.97 rows=48001
+    mean_P_pv_W    mean_Q_pv_var    mean_P_wind_W    mean_P_bess_W    mean_frequency_Hz    mean_voltage_pu    mean_PV_PF
+    ___________    _____________    _____________    _____________    _________________    _______________    __________
+
+       5e+06        2.4216e+06          5e+06         -1.2213e+06          50.122              0.98763           0.9    
+
+START case=primary_only stop=48 step=0.0001 MATLAB=25.1.0.2973910 (R2025a) Update 1
+COMPLETED elapsed=5.84 rows=48001
+    mean_P_pv_W    mean_Q_pv_var    mean_P_wind_W    mean_P_bess_W    mean_frequency_Hz    mean_voltage_pu    mean_PV_PF
+    ___________    _____________    _____________    _____________    _________________    _______________    __________
+
+       5e+06        2.4216e+06          5e+06         -1.2213e+06          50.122              0.98763           0.9    
+
+START case=primary_only stop=48 step=0.0001 MATLAB=25.1.0.2973910 (R2025a) Update 1
+COMPLETED elapsed=10.26 rows=48001
+    mean_P_pv_W    mean_Q_pv_var    mean_P_wind_W    mean_P_bess_W    mean_frequency_Hz    mean_voltage_pu    mean_PV_PF
+    ___________    _____________    _____________    _____________    _________________    _______________    __________
+
+       5e+06        2.4216e+06          5e+06         -1.2213e+06          50.122              0.98763           0.9    
+
+START case=primary_only stop=48 step=0.0001 MATLAB=25.1.0.2973910 (R2025a) Update 1
+COMPLETED elapsed=6.47 rows=48001
+    mean_P_pv_W    mean_Q_pv_var    mean_P_wind_W    mean_P_bess_W    mean_frequency_Hz    mean_voltage_pu    mean_PV_PF
+    ___________    _____________    _____________    _____________    _________________    _______________    __________
+
+       5e+06        2.4216e+06          5e+06         -1.2213e+06          50.122              0.98763           0.9    
+
+START case=primary_only stop=48 step=0.0001 MATLAB=25.1.0.2973910 (R2025a) Update 1
+COMPLETED elapsed=5.37 rows=48001
+    mean_P_pv_W    mean_Q_pv_var    mean_P_wind_W    mean_P_bess_W    mean_frequency_Hz    mean_voltage_pu    mean_PV_PF
+    ___________    _____________    _____________    _____________    _________________    _______________    __________
+
+       5e+06        2.4216e+06          5e+06         -1.2213e+06          50.122              0.98763           0.9    
+

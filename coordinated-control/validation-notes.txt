@@ -1,0 +1,7 @@
+分项独立运行验证 · 2026-11-01
+已将本模块单独复制到新目录，不复制已有results，从自身模型和代码生成三组48秒仿真数据。
+start_demo 三组仿真、四图展示、control_overview.png 及 demo_metrics.json 均生成成功；这条运行路径不需要 Python 数值软件包。
+频率 RMSE：仅一次0.2003667344 Hz，二次协调0.0116453021 Hz，与汇报results一致。
+展示页所有图片均位于本文件夹内；运行源代码无原工作目录或optimal-dispatch目录引用。
+实测：macOS / Apple Silicon、MATLAB R2025a Update 1。Windows 双击入口已做结构与路径检查，未实机验证。
+历史日志保留原运行记录；其中的旧路径不参与本模块当前执行。当前提交不包含验证环境或缓存。

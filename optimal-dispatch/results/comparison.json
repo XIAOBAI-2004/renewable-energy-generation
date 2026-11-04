@@ -1,0 +1,42 @@
+[
+  {
+    "scenario": "normal",
+    "same_service": true,
+    "cost_reduction_yuan": 427.6548526255972,
+    "cost_reduction_pct": 29.194206475727825,
+    "curtailment_change_mwh": 0.2692763785486303,
+    "throughput_reduction_mwh": 6.6000189925898525
+  },
+  {
+    "scenario": "low_pv",
+    "same_service": false,
+    "cost_reduction_yuan": null,
+    "cost_reduction_pct": null,
+    "curtailment_change_mwh": -0.7995737074167597,
+    "throughput_reduction_mwh": 6.602142571083114
+  },
+  {
+    "scenario": "low_wind",
+    "same_service": false,
+    "cost_reduction_yuan": null,
+    "cost_reduction_pct": null,
+    "curtailment_change_mwh": -3.778039935981347,
+    "throughput_reduction_mwh": 1.7763568394002505e-15
+  },
+  {
+    "scenario": "high_load",
+    "same_service": false,
+    "cost_reduction_yuan": null,
+    "cost_reduction_pct": null,
+    "curtailment_change_mwh": -1.908601647430272,
+    "throughput_reduction_mwh": 3.598533816065448
+  },
+  {
+    "scenario": "combined_stress",
+    "same_service": true,
+    "cost_reduction_yuan": -8.506947324349312e-08,
+    "cost_reduction_pct": -6.060898449788965e-08,
+    "curtailment_change_mwh": -8.506946702624418e-09,
+    "throughput_reduction_mwh": 6.661338147750939e-16
+  }
+]

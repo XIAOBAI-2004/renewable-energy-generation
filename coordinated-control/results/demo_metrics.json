@@ -1,0 +1,8 @@
+{
+  "statistics_start_s": 3,
+  "statistics_end_s": 48,
+  "primary_frequency_rmse_Hz": 0.20036673442618663,
+  "coordinated_frequency_rmse_Hz": 0.011645302103432072,
+  "soc_min_pct": 59.8106299942819,
+  "soc_final_pct": 59.8467865472077
+}

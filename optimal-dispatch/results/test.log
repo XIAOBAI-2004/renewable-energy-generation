@@ -1,0 +1,9 @@
+test_equal_service_comparison (test_dispatch.DispatchTests.test_equal_service_comparison) ... ok
+test_invalid_input_rejected (test_dispatch.DispatchTests.test_invalid_input_rejected) ... ok
+test_no_free_initial_battery_energy (test_dispatch.DispatchTests.test_no_free_initial_battery_energy) ... ok
+test_storage_round_trip_energy (test_dispatch.DispatchTests.test_storage_round_trip_energy) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.188s
+
+OK

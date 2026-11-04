@@ -1,0 +1,9 @@
+{
+  "case": "coordinated",
+  "stop_time": 48,
+  "step_s": 0.0001,
+  "elapsed_s": 19.531157,
+  "secondary": true,
+  "model": "WindPVStorage_AC_Island",
+  "matlab": "25.1.0.2973910 (R2025a) Update 1"
+}

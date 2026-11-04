@@ -1,0 +1,9 @@
+{
+  "case": "primary_only",
+  "stop_time": 48,
+  "step_s": 0.0001,
+  "elapsed_s": 5.373912625,
+  "secondary": false,
+  "model": "WindPVStorage_AC_Island",
+  "matlab": "25.1.0.2973910 (R2025a) Update 1"
+}
