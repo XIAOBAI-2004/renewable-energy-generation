@@ -1,6 +1,6 @@
 # Renewable Energy Generation and Control
 
-新能源发电与控制课程项目：风、光、储多源协同孤岛运行与优化调度。
+ZJU 新能源发电与控制课程项目：风、光、储多源协同孤岛运行与优化调度。
 
 ## 课程考察要求
 
